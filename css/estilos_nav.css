@@ -1,0 +1,40 @@
+.navbar {
+	position: relative;
+	width: 100%;
+	border-radius: 0px;
+	margin: 0px;
+	background-color: rgba(0,0,0,0.80);
+}
+
+.navbar.container {
+	border-radius: 0px;	
+}
+
+.nav.navbar-nav li a {
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: 'Halant', serif;
+}
+
+.nav.navbar-nav li a.items:hover {
+	background-color: rgba(0,0,0,0);
+	color: #FFED00;
+	}
+
+
+.nav.navbar-nav .dropdown #desplegable {
+	color: #FFFFFF;
+}
+.nav.navbar-nav .dropdown #desplegable a.menudespl:hover {
+	color: #000000;
+}
+
+.navbar-header .navbar-toggle .icon-bar {
+	color: #F7F7F7;
+	background-color: #F7F7F7;
+}
+
+.nav.navbar-nav li .items:focus {
+	background-color: rgba(0,0,0,0.0);
+
+}

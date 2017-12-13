@@ -1,0 +1,38 @@
+body{
+	margin:0px;
+	background-image:url(../images/jpg/fondo_contac_3.jpg);
+	background-position:center;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+#logo {
+	padding-top: 13px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	min-height: 110px;
+        background-color: white;
+	
+	
+}
+
+
+#libre2 {
+	height: 100px;
+}
+
+#libre3 {
+	height: 90px;
+}
+
+.row.container .col-lg-6.col-sm-8 form {
+	border-radius: 4px;
+}
+form .panel.panel-primary .panel-heading {
+	background-color: #FF7D3A;
+}
+#contactanos .container {
+
+font-family: 'Cardo', serif;
+}
